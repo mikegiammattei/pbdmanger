@@ -1,0 +1,27 @@
+@import "~bootstrap/scss/bootstrap";
+header{
+  nav{
+    background: $primary ;
+    ul{
+      list-style: none;
+      padding:0;
+
+      li{
+        display: inline-block;
+
+        a{
+          color: #ffffff;
+          padding:10px 15px;
+
+          &:hover{
+            text-decoration: none;
+          }
+
+          &:first-child{
+            padding-left: 0;
+          }
+        }
+      }
+    }
+  }
+}
