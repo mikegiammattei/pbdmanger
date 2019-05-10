@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+  <accounts>
+    <name>Mike G</name>
+    <address>630 Parson Circle</address>
+    <children count="2">
+      <name type="id" id="1">sammy</name>
+      <name type="id" id="2">amy</name>
+    </children>
+  </accounts>
+</root>

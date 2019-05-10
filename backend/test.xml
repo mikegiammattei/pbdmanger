@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<root>
+  <accounts>
+    <account type="id" id="2">git://github.com/oozcitak/xmlbuilder-js.git</account>
+  </accounts>
+</root><?xml version="1.0"?>
+<root>
+  <accounts>
+    <account type="id" id="2">
+      git://github.com/oozcitak/xmlbuilder-js.git
+      <name>Mike G</name>
+    </account>
+  </accounts>
+</root><?xml version="1.0"?>
+<root>
+  <accounts>
+    <account type="id" id="2">
+      <name>Mike G</name>
+    </account>
+  </accounts>
+</root><?xml version="1.0"?>
+<root>
+  <accounts>
+    <account type="id" id="2">
+      <name>child</name>
+    </account>
+  </accounts>
+</root><?xml version="1.0"?>
+<root>
+  <accounts>
+    <account type="id" id="2">
+      <name>Mike G</name>
+    </account>
+  </accounts>
+</root>
